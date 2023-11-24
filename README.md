@@ -12,3 +12,6 @@ Features:
 
 https://github.com/CoffeeIsDead/Nova-UI-Extended/assets/92136387/5edac9b5-5ce0-4668-8bc8-3dc431350e9a
 
+
+Requirments:
+* [Nova UI](https://assetstore.unity.com/packages/tools/gui/nova-226304)
