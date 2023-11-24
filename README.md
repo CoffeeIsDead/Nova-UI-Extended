@@ -8,3 +8,4 @@ Features:
 * Input Length Limit
 * TMP Tags
 * Show Protected Button
+* Preview: https://github.com/CoffeeIsDead/Nova-UI-Extended/assets/92136387/5edac9b5-5ce0-4668-8bc8-3dc431350e9a
